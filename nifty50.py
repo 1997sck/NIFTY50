@@ -32,7 +32,7 @@ def save_nifty50_tickers():
     print(tickers)
     return tickers
 
-#save_nifty50_tickers()
+##save_nifty50_tickers()
 
 def get_data_from_yahoo_nifty50(reload_nifty50=False):
 
